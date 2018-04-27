@@ -18,6 +18,7 @@ int main() {
 	}
 //	int a = 2*1;
 //	printf("a-b = %d \n",a);
+	printf("a-b = %d \n",a);
 		
     cout << "!!!Hello World!!!" << endl;
     return 0;
